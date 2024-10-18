@@ -1,5 +1,7 @@
 World Population Report 2021 - Power BI Dashboard
+
 Overview
+
 This Power BI dashboard provides a detailed visualization of the world population for the year 2021. It includes historical data from 1960 and forecasts population trends for future years. The report is structured to give insights at both continental and country levels.
 
 Key Features
