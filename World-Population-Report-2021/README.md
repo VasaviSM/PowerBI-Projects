@@ -9,7 +9,6 @@ Key Features
 Current Population by Continent:
 
 A bar chart that breaks down the population distribution across continents.
-
 Highlights that Asia has the highest population at 4.6 billion, followed by Africa at 1.3 billion.
 
 
