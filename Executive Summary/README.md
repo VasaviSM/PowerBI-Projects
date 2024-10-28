@@ -1,7 +1,7 @@
 # Executive Summary
 
 ## Overview
-This repository contains the Power BI dashboards created for Adventure Works in 2023. These dashboards provide insights into product sales, customer behavior, and order statistics. The reports were created using Power BI and are intended to offer executives a clear view of performance metrics.
+This repository contains the Power BI dashboards created for Adventure Works in 2023. These dashboards provide insights into product sales, customer behavior, and order statistics.
 
 ## Reports Included
 
@@ -34,6 +34,3 @@ This repository contains the Power BI dashboards created for Adventure Works in 
      - Key order trends by location.
      - Order processing status breakdown.
      - Popular shipping methods.
-
-## File Structure
-
