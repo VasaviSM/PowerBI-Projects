@@ -1,4 +1,4 @@
-FurniturePro & Co. – Sales Performance Dashboard (Power BI Project)
+#FurniturePro & Co. – Sales Performance Dashboard (Power BI Project)
 📊 Project Overview
 
 This project is an end-to-end Power BI analytics solution built to analyze sales performance, customer behavior, profitability, and business growth for FurniturePro & Co.
@@ -22,11 +22,17 @@ It is designed to help stakeholders make data-driven strategic decisions using c
 🚀 Key Features
 
 ✔ Interactive KPI dashboard with dynamic filters
+
 ✔ Year, Quarter, Region, State & Segment slicers
+
 ✔ Pareto Analysis (Top Customer Contribution)
+
 ✔ RFM Analysis for Customer Segmentation
+
 ✔ Profit Impact Simulation using Discount Slider
+
 ✔ Drill-through navigation between report pages
+
 ✔ Clean, business-focused UI design
 
 📑 Dashboard Pages
